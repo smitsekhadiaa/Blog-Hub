@@ -14,7 +14,7 @@ Create,write,read and delete as many blogs you want which can be saved for a lif
 ## 🤖 Technology Stack
 
 - Front-end - HTML, CSS, Javascript, EJS
-- Back-end - Node JS,mongoDB
+- Back-end - Node JS,mongoDB,express
 
 
 ## 🛠️ Project Setup
